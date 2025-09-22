@@ -67,8 +67,5 @@ Business Impact & Insights
 • Strategic Expansion: Use volume and demand insights to plan new dark store locations or expand in certain cities or zones.
 
 6. Screenshots / Demos
-   Show what the dashboard looks like.
+   Show what the dashboard looks like. - https://github.com/Apurva364/Blinkit-Delivery-App-Analysis/blob/main/Blinkit%20Dashboard.png
    Example:
-• Profitability Optimization: Understand which product categories or zones are generating margins vs loss, to adjust pricing, delivery charges or fee structure.
-• Customer Satisfaction Improvement: Correlate delivery speed and customer feedback to improve service quality, reduce complaints.
-• Strategic Expansion: Use volume and demand insights to plan new dark store locations or expand in certain cities or zones.
